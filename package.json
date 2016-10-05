@@ -24,7 +24,6 @@
     "mocha": "~1.2.1",
     "pg": "~0.7.2",
     "mysql": "~0.9.6",
-    "sqlite3": "~2.1.5"
   },
   "optionalDependencies": {},
   "engines": {
