@@ -22,8 +22,7 @@
   "devDependencies": {
     "chai": "~1.1.0",
     "mocha": "~1.2.1",
-    "pg": "~0.7.2",
-    "mysql": "~0.9.6",
+    "pg": "~0.7.2"
   },
   "optionalDependencies": {},
   "engines": {
